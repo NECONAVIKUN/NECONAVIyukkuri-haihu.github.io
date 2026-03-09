@@ -1,5 +1,11 @@
-body {
+.zen-maru-gothic-medium {
   font-family: "Zen Maru Gothic", sans-serif;
   font-weight: 500;
+  font-style: normal;
+}
+
+.zen-maru-gothic-black {
+  font-family: "Zen Maru Gothic", sans-serif;
+  font-weight: 900;
   font-style: normal;
 }
