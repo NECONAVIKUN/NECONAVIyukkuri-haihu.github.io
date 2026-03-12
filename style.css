@@ -179,3 +179,14 @@ hr{
   cursor: pointer;
   transition: transform 0.2s;
 }
+.title-sy{
+  font-family: "Zen Maru Gothic", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+  -webkit-text-stroke: 2px #292929;
+  text-stroke: 2px #292929;
+  white-space: nowrap;
+}
