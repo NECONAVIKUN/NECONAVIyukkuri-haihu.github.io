@@ -150,3 +150,14 @@ body{
 a {
   text-decoration: none;
 }
+.title-m {
+  font-family: "Zen Maru Gothic", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+  -webkit-text-stroke: 2px yellow;
+  text-stroke: 2px yellow;
+  white-space: nowrap;
+}
