@@ -80,6 +80,7 @@ h1 {
 a { text-decoration: none; }
 section { display: flex; }
 section p { margin: 23px; }
+.right-ws-256 { margin-right: 256px; }
 .image {
   width: 640px;
   height: 360px;
@@ -91,8 +92,6 @@ section p { margin: 23px; }
 .right {
   margin: 0 0 0 20px;
   padding: 0;
-}
-.title {
 }
 section .button {
   margin: 10px 0 0;
@@ -119,6 +118,8 @@ section .button {
   }
 }
 hr {
+  height: 1px;
+  border: none;
   margin: 0;
   color: #000000; 
   background-color: #000000;
@@ -127,4 +128,3 @@ hr {
   cursor: pointer;
   transition: transform 0.2s;
 }
-.right-ws-256 { margin-right: 256px; }
