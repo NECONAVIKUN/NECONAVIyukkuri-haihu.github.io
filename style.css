@@ -75,12 +75,13 @@ h1 {
     background-color: #0056b3;
     transform: translateY(-2px);
   }
-  &:active { transform: translateY(0); }
+  &:active { transform: translateY(0) !important; }
 }
 a { text-decoration: none; }
 section { display: flex; }
 section p { margin: 23px; }
 .right-ws-256 { margin-right: 256px; }
+.nav_text, #reimu, #marisa { cursor: pointer; }
 .image {
   width: 640px;
   height: 360px;
@@ -123,8 +124,4 @@ hr {
   margin: 0;
   color: #000000; 
   background-color: #000000;
-}
-.nav_s {
-  cursor: pointer;
-  transition: transform 0.2s;
 }
