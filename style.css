@@ -125,3 +125,7 @@ hr {
   color: #000000; 
   background-color: #000000;
 }
+.mannnaka {
+  display: flex;
+  justify-content: center;
+}
