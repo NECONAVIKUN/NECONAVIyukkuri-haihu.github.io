@@ -190,3 +190,7 @@ section .button1 {
     transform: translateY(0);
   }
 }
+.right2 {
+  margin: 0 0 0 20px;
+  padding: 0;
+}
