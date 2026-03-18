@@ -14,4 +14,4 @@ Disallow: /
 User-agent: Google-Extended
 Disallow: /
 
-Sitemap: https://neconavikun.github.io/NECONAVIyukkuri-haihu.github.io/sitemap.xml
+Sitemap: https://neconavikun.github.io/sitemap.xml
