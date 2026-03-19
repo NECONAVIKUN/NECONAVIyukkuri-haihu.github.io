@@ -132,7 +132,7 @@ hr {
 }
 .footer {
   width: 100%;
-  height: 125px;
+  height: 110px;
   background-color: #484848;
   margin: 0;
 }
@@ -140,6 +140,7 @@ ul {
   display: flex;
   justify-content: center;
   color: white;
+  margin: 0;
 }
 footer .button {
   margin: 0px;
@@ -227,5 +228,5 @@ section .button1 {
   text-decoration: none;
 }
 li {
-  margin: 5px;
+  margin: 10px;
 }
