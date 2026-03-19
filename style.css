@@ -229,5 +229,5 @@ section .button1 {
   text-decoration: none;
 }
 footer li{
-  display: block;
+  list-style: 1;
 }
